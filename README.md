@@ -9,16 +9,16 @@ You can visit the live site [HERE!](https://netflixpages.netlify.app/).
 ![Netflix Landing Page](https://i.ibb.co/GR3rjJv/home.png)
 
 ### Cancelation
-[Netflix Landing Page](https://ibb.co/r09dhhC/)
+![Netflix Landing Page](https://i.ibb.co/RT8g49D/content1.png)
 
 ### Watch
-[Netflix Landing Page](https://ibb.co/dPHt8SK/)
+![Netflix Landing Page](https://i.ibb.co/rxX3Dgy/Content2.png)
 
 ### Pricing
-[Netflix Landing Page](https://ibb.co/LdK0h8Z/)
+![Netflix Landing Page](https://i.ibb.co/fFJDWWh/content3-1.png)
 
 ### Snapshot of the Code 
-[Netflix Landing Page](https://ibb.co/3mN5psk/)
+![Netflix Landing Page](https://i.ibb.co/1GqYrnb/netflix.png)
 
 
 ## Languages Used:
