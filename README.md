@@ -6,7 +6,7 @@ Responsive clone of the netflix landing page built using Html, Css and Javascrip
 You can visit the live site [HERE!](https://netflixpages.netlify.app/).
 
 ### Home
-[Netflix Landing Page](https://ibb.co/Zx1bCJ6/)
+![Netflix Landing Page](https://i.ibb.co/GR3rjJv/home.png)
 
 ### Cancelation
 [Netflix Landing Page](https://ibb.co/r09dhhC/)
